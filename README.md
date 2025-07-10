@@ -1,3 +1,8 @@
+# 🚨 Repository Archived 🚨
+
+> [!WARNING]
+> **This repository has been archived** because it is no longer used. Only one client project was using this functionality but this is no longer the case: [JP/WPAndroid#20016](https://github.com/wordpress-mobile/WordPress-Android/pull/20016)
+---
 
 ## The Stories library
 
